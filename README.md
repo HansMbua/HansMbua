@@ -8,11 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="##" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="##" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="##" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="##" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/hansmbua/" />][instagram]
+
 <br />
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
