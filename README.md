@@ -52,10 +52,11 @@
  [![HansKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansMbua)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-<languages>
+<details>
+<summary>:zap: Recent GitHub Activity</summary>
 
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@HansMbua" frameborder="0"></iframe>
-</languages>
+</details>
 
 
 [website]: https://Google.com
