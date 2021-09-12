@@ -70,9 +70,15 @@
 <!--END_SECTION:activity-->
 </details>
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HansMbua&show_icons=true&hide_border=true" />
+
+ 
+ <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Hans's GitHub Stats" src="https://github-readme-stats.HansMbua.vercel.app/api?username=HansMbua&show_icons=true&hide_border=true" />
+
+
 </details>
+
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
