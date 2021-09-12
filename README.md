@@ -71,9 +71,8 @@
 </details>
 <details>
 
- 
- <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Hans's GitHub Stats" src="https://github-readme-stats.HansMbua.vercel.app/api?username=HansMbua&show_icons=true&hide_border=true" />
+ [![HansKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansMbua)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 </details>
