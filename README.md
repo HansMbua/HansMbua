@@ -9,13 +9,12 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 <br />
-### Languages and Tools:
+<br />
+<br />
 
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@HansMbua" frameborder="0"></iframe>
 
-<br />
-<br />
----
+
 ### 📺 Latest YouTube Video Recomendation
 
 <!-- YOUTUBE:START -->
