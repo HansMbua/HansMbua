@@ -1,7 +1,7 @@
 @@ -1,58 +1,58 @@
 ### Hi there, I'm Hans Mbua - aka [HansKIM1][website] 👋
-[![Website](https://img.shields.io/website?label=Sokia.com&style=for-the-badge&url=https%3A%2F%2Fsokia.com)](https://codestackr.com)
-[![Facebook Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=Sokia.com&style=for-the-badge&url=https%3A%2F%2Fsokia.com)](##)
+[![Facebook Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.facebook.com/profile.php?id=100009373836790)
 ## I'm Developer, and Teacher!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to cSollaborate with other content creators
