@@ -54,9 +54,9 @@
 
 </details>
 <details>
-<summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Languages:</summary>
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@HansMbua" frameborder="0"></iframe>
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<#007396>&logoColor=white&color=2bbc8a)
 </details>
 
 
