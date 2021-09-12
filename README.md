@@ -51,20 +51,16 @@
 
  [![HansKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansMbua)](https://github.com/anuraghazra/github-readme-stats)
 
-
- [<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@HansMbua" frameborder="0"></iframe>)
-
-
 </details>
 
 
-[website]: https://codeSTACKr.com
+[website]: https://Google.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: ##
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[instagram]: https://www.instagram.com/hansmbua/
+[linkedin]: ##
+[webdevplaylist]: ##
+[jsplaylist]:##
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
