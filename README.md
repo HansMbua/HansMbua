@@ -10,7 +10,9 @@
 
 <br />
 ### Languages and Tools:
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)][webdevplaylist][webdevplaylist]
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@HansMbua" frameborder="0"></iframe>
+
 <br />
 <br />
 ---
