@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 ## I'm Developer, and Teacher!!
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to cSollaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -28,7 +27,7 @@
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
+- [How built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
@@ -63,7 +62,7 @@
 
 
 [website]: https://Google.com
-[course]: http://vsCodeHero.com
+[course]:##
 [twitter]: ##
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/hansmbua/
