@@ -49,7 +49,7 @@
 </details>
 <details>
 
- [![HansKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansMbua)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<HansMbua>&theme=<THEME_NAME>" />
 
 </details>
 <details>
