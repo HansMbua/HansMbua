@@ -1,7 +1,7 @@
 @@ -1,58 +1,58 @@
 ### Hi there, I'm Hans Mbua - aka [HansKIM1][website] 👋
 [![Website](https://img.shields.io/website?label=Sokia.com&style=for-the-badge&url=https%3A%2F%2Fsokia.com)](##)
-[![Facebook Follow](https://img.shields.io/twitter/follow/Hans?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.facebook.com/profile.php?id=100009373836790)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ## I'm Developer, and Teacher!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to cSollaborate with other content creators
