@@ -9,7 +9,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 ### Connect with me:
-[<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@HansMbua" frameborder="0"></iframe>]
 
 <br />
 <br />
@@ -52,6 +51,8 @@
 
  [![HansKIM's GitHub stats](https://github-readme-stats.vercel.app/api?username=HansMbua)](https://github.com/anuraghazra/github-readme-stats)
 
+
+ [<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@HansMbua" frameborder="0"></iframe>)
 
 
 </details>
