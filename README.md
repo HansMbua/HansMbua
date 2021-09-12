@@ -29,7 +29,7 @@
 <br />
 <br />
 ---
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Video Recomendation
 
 <!-- YOUTUBE:START -->
 - [Top VS Code Updates | v1.60 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=cPxiA9enjz0)
