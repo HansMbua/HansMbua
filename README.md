@@ -4,7 +4,7 @@
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ## I'm Developer, and Teacher!!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to cSollaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 ### Connect with me:
