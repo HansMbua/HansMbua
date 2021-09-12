@@ -56,7 +56,7 @@
 <details>
 <summary>:zap: Languages:</summary>
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<#007396>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<JAVA>-<Spring>-informational?style=flat&logo=<JAVA>&logoColor=white&color=#007396)
 </details>
 
 
