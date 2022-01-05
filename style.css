@@ -172,6 +172,7 @@ margin-bottom: 50px;
 }
 .box{
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     width: 350px;
     height: 450px;
@@ -188,7 +189,7 @@ margin-bottom: 50px;
 }
 .box:hover{
     background-position: left bottom;
-    color: white;
+  
     border: none;
     box-shadow: 0 0 20px rgb(255,45,45);
 }
@@ -237,4 +238,26 @@ margin-bottom: 50px;
 #send:hover{
     cursor: pointer;
     box-shadow: 0 0 10px white;
+}
+.list{
+    list-style-type:none;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-lg-1{
+    width: 50%;
+}
+.text-align{
+    text-align: center;
+}
+.img-fluid{
+    width: 70%;
+  
+   
+}
+#disclosure{
+ font-size: larger;
 }
