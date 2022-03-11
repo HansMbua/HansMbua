@@ -1,0 +1,66 @@
+
+body{
+    box-sizing: border-box;
+}
+#aboutMe{
+
+    background: linear-gradient(49deg, rgba(92, 128, 139, 0) , rgb(128, 160, 184))
+}
+
+#aboutMe h1{
+    font-size: 70px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-bottom:15px;
+}
+
+/* contact section */
+#contact {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    padding: 20px;
+}
+
+#contact h2{
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+.input {
+    padding: 12px;
+    margin: 20px;
+    width: 30%;
+    border: none;
+    outline: none;
+}
+
+#mgs {
+    width: 20%;
+    padding: 10px;
+    margin: 15px;
+    border: none;
+    outline: none;
+}
+
+#send {
+    padding: 10px;
+    width: 10%;
+    margin: 40px;
+    border: none;
+    outline: none;
+}
+
+#send:hover {
+    cursor: pointer;
+    box-shadow: 0 0 10px white;
+}

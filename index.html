@@ -6,141 +6,169 @@
       You won't see what's in the head in the page
       Scroll down to the body element for the page content
     -->
-
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-   
-
-
     <title>Hans</title>
 
     <!--links for css -->
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="shear.css">
 
     <!-- controling screen oriantation hello -->
-    <link rel="stylesheet"media="screen and (max-width:800px)" href="table.css" />
+    <link rel="stylesheet" media="screen and (max-width:800px)" href="table.css"
+      />
 
     <!-- controling screen oriantation on phone-->
-    <link rel="stylesheet"media="screen and (max-width:530px)" href="phone.css" />
+    <link rel="stylesheet" media="screen and (max-width:530px)" href="phone.css"
+      />
   </head>
   <body>
-   
-    <nav class="navbar">
+    <header>
+      <nav>
         <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About me</a></li>
-            <li><a href="#Project">Projects</a></li>
-            <li><a href="#Experiences">Experiences</a></li>
-            <li><a href="#contact">Contact Me</a></li>
-            <li><a href="hire_me/software CV.pdf">Resume CV</a></li>
+          <li><a href="#home">Home</a></li>
+  
+          <li><a href="#Projects">Projects</a></li>
+          <li><a href="#Experiences">Experiences</a></li>
+          <li><a href="/AboutMe.html">About me</a></li>
+  
+          <li><a href="hire_me/softwareCV.pdf">Resume CV</a></li>
         </ul>
-    </nav>
-      
-      <!-- Home section -->
+      </nav>
 
-  <section id="home">
+    </header>
+
+    <main>
+
+    <!-- Home section -->
+
+    <section id="home">
+
       <div class="main">
-          <h1 class="headings"> I AM <br> HANS MBUA</h1>
+        <h1 class="headings person"> I'AM HANS MBUA <br> SOFTWARE DEVELOPER</h1>
+        <p>web / Spring-boot developer</p>
+
+        <div id="hire_me">
+
           <button class="btn">
-            <a href="hire.html">Hire me</a>
-        </button>
+            <a href="#">Hire me</a>
+          </button>
+          <button class="btn">
+            <a href="/AboutMe.html">Learn More</a>
+          </button>
+
+        </div>
+
+
       </div>
-  </section>
-<!-- About Me -->
-<section id="about">
-    <h1 class="headings">About Me</h1>
+    </section>
 
-    <div class="row text-align">
-        <div class="col-lg-1 ">
-            <img src="img1.jpg" class="img-fluid" alt="">
-           
 
+    <!-- portfolio -->
+
+    <section id="Projects">
+      <h1>Projects</h1>
+
+      <ul id="projectList">
+        <li class="project">
+          <a href="https://github.com/HansMbua?tab=repositories"><img
+              src="/Projects/Git-profile.jpg" alt="my git profile"></a>
+          <p>Git Profile</p>
+        </li>
+
+        <li class="project">
+          <a href="https://hansmbua.github.io/Best_Brain_international/"><img
+              src="/Projects/BestBrain.jpg" alt="best brain international"></a>
+          <p>Best Brain International</p>
+        </li>
+
+
+
+        <li class="project">
+          <a href="https://hansmbua.github.io/MalickPort/"><img
+              src="/Projects/Portfolio.jpg" alt="malick portfolio"></a>
+          <p>Portfolio websits</p>
+        </li>
+        <li class="project">
+          <a
+            href="https://lab-antwerp-1.github.io/group1-separate-of-concerns-project/"><img
+              src="/Projects/book.jpg" alt="my fevorite book project from git"></a>
+          <p>Portfolio websits</p>
+        </li>
+
+
+      </ul>
+    </section>
+
+    <!-- Service -->
+    <section id="Experiences">
+      <h1 class="headings">Experiences</h1>
+      <div class="row">
+        <div class="box">
+          <h1 class="headings">Web Design</h1>
+
+          <p>
+
+          </p>
         </div>
 
-        <div class="col-lg-1 ">
-            <h2>Hans Mbua</h2>
-            <p id="disclosure">
-                “Full disclosure: I am a geek. I love computers. I love everything about them. I spend eight to ten hours a day in front of a 
-                computer screen as I am coding, debugging, or discussing coding practices and methods with other programmers. When I am not programming,
-                 I am teaching about computers at the university or am researching and writing about computers as part of my academic work. 
-                 I truly get excited when a new kernel of Linux is released or when a new Web application that does something never done before becomes
-                  available for beta testing. I am deeply impressed when I see smart and beautiful code that does something I know is hard to accomplish.
-                   These are moments when I feel that we have only touched the surface of what we can do with computers, and I know that there is a simple
-                    solution to the current programming problem I am facing;I just need to get my head around it. With my spare time, I play around with my 
-                    operating system, trying out new ideas or writing a patch or a bug report to some open source application I use. 
+        <div class="box">
 
-            </p>
-           
+          <h1 class="headings">Java Developer</h1>
 
+          <p>
+            JavaServer pages (JSP) and servlets. <br>
+            Web frameworks (e.g., Struts and Spring) <br>
+            Service-oriented architecture/web services (SOAP/REST) <br>
+            Web technologies like HTML, CSS, JavaScript, and JQuery. <br>
+            Markup languages like XML and JSON. <br>
+            Object-oriented programming (OOP) concepts and patterns.</p>
+        </div>
+        <div class="box">
+          <h1 class="headings">Spring-boot</h1>
+
+          <p>
+            <ul class="list">
+              <li>Create stand-alone applications</li>
+              <li>Embed Tomcat, Jetty or Undertow directly (no need to deploy
+                WAR files)</li>
+              <li>Provide opinionated 'starter' dependencies to simplify your
+                build configuration</li>
+              <li>Automatically configure Spring and 3rd party libraries
+                whenever possible</li>
+              <li>Provide production-ready features such as metrics, health
+                checks, and externalized configuration</li>
+              <li>Absolutely no code generation and no requirement for XML
+                configuration</li>
+            </ul>
+          </p>
         </div>
 
+      </div>
+    </section>
 
-    </div>
+    </main>
 
 
-</section>
+    <!-- contact section -->
 
-<!-- portfolio -->
+    <footer>
 
-<section id="Projects">
-    <h1 class="headings">Projects</h1>
-     <p>Projects here</p>
-</section>
+      <ul>
+        <li>
+          <a
+            href="http://https://www.facebook.com/profile.php?id=100009373836790">
+            <img src="/footer/facebook.png" alt="facebook account">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/hans-mbua-8b103a1b1/">
+            <img src="/footer/linkedin.png" alt="" >
+          </a>
 
-<!-- Service -->
-     <section id="Experiences">
-         <h1 class="headings">Experiences</h1>
-         <div class="row">
-             <div class="box">
-                 <h1 class="headings">Website Design</h1>
-                 
-                 <p>
-                    At times, it can be frustrating having to deal with customers. However, many developers report getting a boost
-                     in morale when dealing with end users. They can see close up how customers are using their products and get 
-                     real feedback from those who use products on a daily basis. Seeing how their work is being used gives them
-                      motivation to ‘do better’.  For example, when rolling out software it can be useful to involve a developer
-                       in customer support and use their expertise to spot issues ‘on the hoof’.</p>
-             </div>
+        </li>
+      </ul>
 
-             <div class="box">
-                <h1 class="headings">Java Developer</h1>
-               
-                <p>
-                    JavaServer pages (JSP) and servlets. <br>
-                    Web frameworks (e.g., Struts and Spring) <br>
-                    Service-oriented architecture/web services (SOAP/REST) <br>
-                    Web technologies like HTML, CSS, JavaScript, and JQuery. <br>
-                    Markup languages like XML and JSON. <br>
-                    Object-oriented programming (OOP) concepts and patterns.</p>
-            </div>
-            <div class="box">
-                <h1 class="headings">Spring-boot</h1>
-             
-                <p>
-                    <ul class="list">
-                        <li>Create stand-alone applications</li>
-                        <li>Embed Tomcat, Jetty or Undertow directly (no need to deploy WAR files)</li>
-                        <li>Provide opinionated 'starter' dependencies to simplify your build configuration</li>
-                        <li>Automatically configure Spring and 3rd party libraries whenever possible</li>
-                        <li>Provide production-ready features such as metrics, health checks, and externalized configuration</li>
-                        <li>Absolutely no code generation and no requirement for XML configuration</li>
-                    </ul>
-                 </p>
-            </div>
-
-         </div>
-     </section>
-
-     <!-- contact section -->
-
-     <section id="contact">
-         <h1 class="headings">CONTACT</h1>
-         <form action="" class="form">
-            <input type="text" name="name" class="input" placeholder="Enter Your Name">
-            <input type="email" name="email" class="input" placeholder="Enter Your Email">
-            <textarea name="msg" id="msg" cols="30" rows="10" placeholder="Enter Your Message"></textarea>
-            <input type="submit" value="SEND" id="send">
-         </form>
-     </section>
+    </footer>
   </body>
 </html>

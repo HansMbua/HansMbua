@@ -1,64 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-html{
-    scroll-behavior: smooth;
-}
-body{
-    font-family: 'Roboto',sans-serif;
-}
 
-/*nav bar*/
-.navbar{
-    display: flex;
-    justify-content: center;
-    margin: 20px 0px;
-     align-items: center;
-    background-color: rgba(0,0,0,0.5);
-    position: sticky;
-    top: 0;
-        
-}
-
-.navbar ul{
-    
-    display: flex;
-    list-style: none;
-    margin: 20px 0px;
-}
-.navbar ul li{
-    font-family: century;
-    font-size: 1.1rem;
-    font-weight: bold;
- 
-     
-}
-.navbar ul li a{
-    text-decoration: none;
-    color: white;
-    padding: 8px 25px;
-    transition: all .5s ease;
-}
-
-.navbar ul li a:hover{
-    background-color: white;
-    color: black;
-    box-shadow: 0 0 10px white;
-}
 /*Home section*/
-#home{
-display: flex;
-flex-direction: column;
-background-color: rgba(0,0,0,0.5);
-height: 840px;
-justify-content: center;
-align-items: center;
-color: white;
+#home {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 840px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
 }
-#home::before{
+
+#home::before {
     content: "";
     position: absolute;
     top: 0;
@@ -70,107 +23,117 @@ color: white;
     opacity: .8;
 
 }
-.main{
+
+.main {
     display: flex;
     flex-direction: column;
     /* border: 1px solid white; */
     align-items: center;
     position: absolute;
     top: 30%;
-    right: 10%;    
+    right: 10%;
 }
-.headings{
+
+.headings {
     font-family: century;
     font-size: 3rem;
     text-align: center;
-    margin: 40px 0px;
+    margin: 2px 0px;
 
 }
 
-.btn{
-    padding: 10px 35px;
+.main p {
+    font-family: "Oleo Script", sans-serif;
+    font-size: 20px;
+    margin: 10px 0px;
+
+}
+
+.person {
+    font-family: "Oleo Script", sans-serif;
+}
+
+.btn {
+    padding: 20px 40px;
     background-color: transparent;
     border: 1px solid white;
     color: white;
     outline: none;
     transition: .6s ease;
+    border-radius: 8px;
+    margin: 0 10px;
 }
 
-.btn:hover{
+.btn:hover {
     cursor: pointer;
     background-color: white;
     color: black;
-    box-shadow: 0,0,5px white,0 0 10px white, 0 0 15px white;
+    box-shadow: 0, 0, 5px white, 0 0 10px white, 0 0 15px white;
     font-weight: bold;
 
 }
+
 a, a:hover, a:focus, a:active {
     text-decoration: none;
     color: inherit;
 }
+
 /* about section */
-#about{
+#about {
     display: flex;
-flex-direction: column;
-box-sizing: border-box;
-padding: 20px;
-margin-bottom: 50px;
-}
-#pic{
-    display: flex
-}
-#pic img{
-    width: 575px;
-    height: 400px;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: white;
 }
 
-#intro{
+
+#intro {
     display: flex;
     flex-direction: column;
     text-align: justify;
     padding: 10px;
 }
 
-#intro h2{
+#intro h2 {
     font-size: 4rem;
     margin-bottom: 20px;
 }
 
 /* Portfolio section */
-#Projects{
+#Projects {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    background-color: rgba(0,0,0,0.9);
+    background-color: rgba(0, 0, 0, 0.9);
     color: white;
     align-items: center;
     padding: 20px;
 }
-.gallery{
-   display: flex;  
-   flex-wrap: wrap; 
-   justify-content: space-around;
-   box-sizing: border-box;
+
+#Projects h1 {
+    margin-bottom: 20px;
+    font-size: 50px;
+
 
 }
-.gallery img{
-    width: 360px;
-    height: 240px;
-    margin: 10px;
-}
+
 /* Service */
-#Experiences{
+#Experiences {
     display: flex;
     flex-direction: column;
     padding: 20px;
+    background-color: rgba(161, 158, 158, 0.5);
 }
-.row{
+
+.row {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-wrap: wrap;
     box-sizing: border-box;
 }
-.box{
+
+.box {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -182,82 +145,67 @@ margin-bottom: 50px;
     text-align: justify;
     padding: 10px;
     border-radius: 15px;
-    background: linear-gradient(to top, rgb(225,45,45) 50% white 50%);
+    background: linear-gradient(to top, rgb(225, 45, 45) 50% white 50%);
     background-size: 100% 200%;
     transition: all .8s;
-    
+
 }
-.box:hover{
+
+.box:hover {
     background-position: left bottom;
-  
     border: none;
-    box-shadow: 0 0 20px rgb(255,45,45);
+    box-shadow: 0 0 20px rgb(255, 45, 45);
+}
+.list {
+    list-style-type: none;
 }
 
-.box img{
-    width: 80px;
-    height: 80px;
-}
-/* contact section */
-#contact{
-    display: flex;
-    flex-direction: column;
-    box-sizing: border-box ;
-    background-color: rgba(0,0,0,0.9);
-    color: white;
-    padding: 20px;
-}
-.form{
-    display: flex;
-    flex-direction: column;
-    box-sizing: border-box;
-    align-items:center;
-    margin: 20px 0px;
-}
-.input{
-    padding: 12px;
-    margin: 20px;
-    width: 30%;
-    border: none;
-    outline: none;
-}
-#mgs{
-    width: 20%;
-    padding: 10px;
-    margin: 15px;
-    border: none;
-    outline: none;
-}
-#send{
-    padding: 10px;
-    width: 10%;
-    margin: 40px;
-    border: none;
-    outline: none;
-}
-#send:hover{
-    cursor: pointer;
-    box-shadow: 0 0 10px white;
-}
-.list{
-    list-style-type:none;
-}
-
-.row{
+.row {
     display: flex;
     flex-wrap: wrap;
 }
-.col-lg-1{
+
+.col-lg-1 {
     width: 50%;
 }
-.text-align{
+
+
+#disclosure {
+    font-size: larger;
+}
+
+#projectList {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 40px;
+    padding: 24px;
+
+}
+
+#projectList li a img {
+    height: 200px;
+    width: 100%;
+    box-shadow: 2px 4px 8px rgba(68, 67, 67);
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+#projectList li a {
+    text-decoration: none;
+}
+
+#projectList li {
+    list-style: none;
+}
+
+#projectList p {
+    font-size: 20px;
     text-align: center;
+    color: rgb(179, 154, 154);
 }
-.img-fluid{
-    width: 70%;
-  
-   
+
+.project {
+    margin: 0px 20px;
 }
-#disclosure{
- font-size: larger;
-}
+
