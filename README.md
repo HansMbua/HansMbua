@@ -2,17 +2,21 @@
 ### Hi there, I'm Hans Mbua [Portfolio](https://hansmbua.github.io/Portfoliowebsite/) 👋
 [![Website](https://img.shields.io/website?label=Sokia.com&style=for-the-badge&url=https%3A%2F%2Fsokia.com)](##)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-## I'm Developer, and Teacher!!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-### Connect with me:
+## Skills
+|               |                 |                    |                                   |       |             |         |
+| :------------ |:---------------:|:------------------:|:---------------------------------:|:-----:|:-----------:|--------:|
+|Spring-boot    | Spring-mvc      | Hybernate with CRUD| AOP Aspect oriented programming   | Meven | Spring-REST |Thymeleaf|
+|HTML           | HTML5           |                    |
+|CSS            | CSS3            |                    |
+|JavaScript     | React           |                    |
+|Strapi         | Heroku          |                    |
+
+
 
 <br />
 <br />
 
-➡️ [more videos...](https://youtube.com)
+
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
