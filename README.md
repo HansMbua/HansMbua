@@ -1,5 +1,5 @@
 ### Hi there, I'm Hans Mbua 
-## Web / Deskstop Developer [Portfolio](https://hansmbua.github.io/Portfoliowebsite/) 👋 
+## Web / Deskstop Developer [Portfolio](https://hansmbua.github.io/HansMbua/) 👋 
 ## Skills
 |               |                 |                    |                                   |       |             |         |
 | :------------ |:---------------:|:------------------:|:---------------------------------:|:-----:|:-----------:|--------:|
