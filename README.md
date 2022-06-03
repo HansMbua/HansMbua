@@ -7,7 +7,7 @@
 |HTML           | HTML5           |                    |
 |CSS            | CSS3            |                    |
 |JavaScript     | React           |                    |
-|Strapi         | Heroku          |                    |
+|Strapi         | Heroku          |  Postman           |
 
 
 
