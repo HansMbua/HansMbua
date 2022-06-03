@@ -1,6 +1,5 @@
 
 ### Hi there, I'm Hans Mbua [Portfolio](https://hansmbua.github.io/Portfoliowebsite/) 👋
-<br></br>
 ## Skills
 |               |                 |                    |                                   |       |             |         |
 | :------------ |:---------------:|:------------------:|:---------------------------------:|:-----:|:-----------:|--------:|
@@ -16,7 +15,11 @@
 <br />
 <br />
 
-
+## Languages
+ - NEDERLANDS   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
+ - ENGLISH  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
+ - FRENCH  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
+ 
 ---
 
 
