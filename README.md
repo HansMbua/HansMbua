@@ -5,6 +5,7 @@
 ## Skills
 |               |                 |                    |                                   |       |             |         |
 | :------------ |:---------------:|:------------------:|:---------------------------------:|:-----:|:-----------:|--------:|
+|JAVA           | JDK 11          | jQuery             | JDBC                              | Networking with Threads  |
 |Spring-boot    | Spring-mvc      | Hybernate with CRUD| AOP Aspect oriented programming   | Meven | Spring-REST |Thymeleaf|
 |HTML           | HTML5           |                    |
 |CSS            | CSS3            |                    |
