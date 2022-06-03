@@ -1,7 +1,6 @@
 
 ### Hi there, I'm Hans Mbua [Portfolio](https://hansmbua.github.io/Portfoliowebsite/) 👋
-[![Website](https://img.shields.io/website?label=Sokia.com&style=for-the-badge&url=https%3A%2F%2Fsokia.com)](##)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+<br></br>
 ## Skills
 |               |                 |                    |                                   |       |             |         |
 | :------------ |:---------------:|:------------------:|:---------------------------------:|:-----:|:-----------:|--------:|
