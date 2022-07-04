@@ -1,5 +1,5 @@
-### Hi there, I'm Hans Mbua 
-## Web / Deskstop Developer [Portfolio](https://hansmbua.github.io/HansMbua/) 👋 
+## Web / Deskstop Developer  
+ I am a young developer passionate about JAVA, JavaScript, Databases and lots of other programming languages. Feel free to take a look at my repo's and ask me questions about my projects. Recently You can see some of my projects at my personal [website](https://hansmbua.github.io/HansMbua/) 👋. and also i have the ability to learn something difficault in a short period of time 
 ## Skills
 |               |                 |                    |                                   |       |             |         |
 | :------------ |:---------------:|:------------------:|:---------------------------------:|:-----:|:-----------:|--------:|
