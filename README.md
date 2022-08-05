@@ -1,5 +1,6 @@
 ## Web / Deskstop Developer  
  I am a young developer passionate about JAVA, JavaScript, Databases and lots of other programming languages. Feel free to take a look at my repo's and ask me questions about my projects. Recently You can see some of my projects at my personal [website](https://hansmbua.github.io/HansMbua/) 👋. and also i have the ability to learn something difficault in a short period of time 
+ 
 ## Skills
 |               |                 |                    |                                   |       |             |         |
 | :------------ |:---------------:|:------------------:|:---------------------------------:|:-----:|:-----------:|--------:|
@@ -10,6 +11,9 @@
 |JavaScript     | React           |                    |
 |Strapi         | Heroku          |  Postman           |
 
+## 1) A great software is one in which makes sure its dose what the customers wants
+## 2) Applies basic OO Principles to add flexibility
+## 3) Strives for a maintainable, reusable design.
 
 
 <br />
