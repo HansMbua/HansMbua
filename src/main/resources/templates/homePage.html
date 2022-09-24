@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
   <head>
     <!--
       This is the page head - it contains info the browser uses to display the page
@@ -11,15 +11,15 @@
     <title>Hans</title>
 
     <!--links for css -->
-    <link rel="stylesheet" href="style.css" />
-    <link rel="stylesheet" href="shear.css">
+    <link rel="stylesheet" th:href="@{/css/style.css}"/>
+    <link rel="stylesheet" th:href="@{/css/shear.css}"/>
+
 
     <!-- controling screen oriantation hello -->
-    <link rel="stylesheet" media="screen and (max-width:800px)" href="table.css"
-      />
+    <link rel="stylesheet" media="screen and (max-width:800px)" th:href="@{/css/table.css}"/>
 
     <!-- controling screen oriantation on phone-->
-    <link rel="stylesheet" media="screen and (max-width:530px)" href="phone.css"
+    <link rel="stylesheet" media="screen and (max-width:530px)" th:href="@{/css/phone.css}"
       />
   </head>
   <body>
@@ -30,7 +30,7 @@
   
           <li><a href="#Projects">Projects</a></li>
           <li><a href="#Experiences">Experiences</a></li>
-          <li><a href="/AboutMe.html">About me</a></li>
+          <li><a th:href="@{/home/contactMe}">Contact Me</a></li>
   
           <li><a href="hire_me/softwareCV.pdf">Resume CV</a></li>
         </ul>
@@ -44,8 +44,9 @@
 
     <section id="home">
 
+      <img src="/assert/img2.jpg" id="backgroundImage">
       <div class="main">
-        <h1 class="headings person"> I'AM HANS MBUA <br> SOFTWARE DEVELOPER</h1>
+        <h1 class="headings person"> I'M HANS MBUA <br> SOFTWARE DEVELOPER</h1>
         <p>web / Spring-boot developer</p>
 
         <div id="hire_me">
@@ -64,21 +65,21 @@
     </section>
 
 
-    <!-- portfolio -->
+    <!-- Projects -->
 
     <section id="Projects">
       <h1>Projects</h1>
 
       <ul id="projectList">
         <li class="project">
-          <a href="https://github.com/HansMbua?tab=repositories"><img
-              src="/Projects/Git-profile.jpg" alt="my git profile"></a>
+          <a href="https://github.com/HansMbua"><img
+              src="/assert/ProjectPics/Git-profile.jpg" alt="my git profile"></a>
           <p>Git Profile</p>
         </li>
 
         <li class="project">
           <a href="https://hansmbua.github.io/Best_Brain_international/"><img
-              src="/Projects/BestBrain.jpg" alt="best brain international"></a>
+              src="/assert/ProjectPics/BestBrain.jpg" alt="best brain international"></a>
           <p>Best Brain International</p>
         </li>
 
@@ -86,13 +87,13 @@
 
         <li class="project">
           <a href="https://hansmbua.github.io/MalickPort/"><img
-              src="/Projects/Portfolio.jpg" alt="malick portfolio"></a>
+              src="/assert/ProjectPics/Portfolio.jpg" alt="malick portfolio"></a>
           <p>Portfolio websits</p>
         </li>
         <li class="project">
           <a
             href="https://lab-antwerp-1.github.io/group1-separate-of-concerns-project/"><img
-              src="/Projects/book.jpg" alt="my fevorite book project from git"></a>
+              src="/assert/ProjectPics/book.jpg" alt="my fevorite book project from git"></a>
           <p>Portfolio websits</p>
         </li>
 
