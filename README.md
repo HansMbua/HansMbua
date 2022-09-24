@@ -1,17 +1,17 @@
-## Web / Deskstop Developer  
- I am a young developer passionate about JAVA, JavaScript, Databases and lots of other programming languages. Feel free to take a look at my repo's and ask me questions about my projects. Recently You can see some of my projects at my personal [website](https://hansmbua.github.io/HansMbua/) 👋. and also i have the ability to learn something difficault in a short period of time 
+## Web / Desktop Developer  
+ I am a young developer passionate about JAVA, JavaScript, Databases and lots of other programming languages. Feel free to take a look at my repo's and ask me questions about my projects. Recently You can see some of my projects at my personal [website](https://hansmbua.github.io/HansMbua/) 👋. and also I have the ability to learn something difficult in a short period of time 
  
 ## Skills
-|               |                 |                    |                                   |       |             |         |
-| :------------ |:---------------:|:------------------:|:---------------------------------:|:-----:|:-----------:|--------:|
-|JAVA           | JDK 11          | jQuery             | JDBC                              | Networking with Threads  |
-|Spring-boot    | Spring-mvc      | Hybernate with CRUD| AOP Aspect oriented programming   | Meven | Spring-REST |Thymeleaf|
-|HTML           | HTML5           |                    |
-|CSS            | CSS3            |                    |
-|JavaScript     | React           |                    |
-|Strapi         | Heroku          |  Postman           |
+|             |            |                     |                                 |                         |             |           |
+|:------------|:----------:|:-------------------:|:-------------------------------:|:-----------------------:|:-----------:|----------:|
+| JAVA        |   JDK 11   |       jQuery        |              JDBC               | Networking with Threads |
+| Spring-boot | Spring-mvc | Hibernate with CRUD | AOP Aspect oriented programming |          Maven          | Spring-REST | Thymeleaf |
+| HTML        |   HTML5    |                     |
+| CSS         |    CSS3    |                     |
+| JavaScript  |   React    |                     |
+| Strapi      |   Heroku   |       Postman       |
 
-## 1) A great software is one in which makes sure its dose what the customers wants
+## 1) A great software is one in which makes sure its dose what the customers want
 ## 2) Applies basic OO Principles to add flexibility
 ## 3) Strives for a maintainable, reusable design.
 
@@ -20,7 +20,7 @@
 <br />
 
 ## Languages
- - NEDERLANDS   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
+ - NEDERLAND   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
  - ENGLISH  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
  - FRENCH  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
  

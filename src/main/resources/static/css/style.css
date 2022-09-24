@@ -11,17 +11,29 @@
 
 }
 
-#home::before {
+/*#home::before {*/
+/*    content: "";*/
+/*    position: absolute;*/
+/*    top: 0;*/
+/*    right: 0;*/
+/*    height: 900px;*/
+/*    width: 100%;*/
+/*    z-index: -1;*/
+/*    opacity: .8;*/
+
+/*}*/
+
+#backgroundImage {
+    height: 900px;
+    width: 100%;
     content: "";
     position: absolute;
     top: 0;
     right: 0;
-    background: url('img2.jpg') no-repeat center center/cover;
     height: 900px;
     width: 100%;
     z-index: -1;
     opacity: .8;
-
 }
 
 .main {
