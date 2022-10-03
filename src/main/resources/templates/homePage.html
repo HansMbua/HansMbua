@@ -45,23 +45,35 @@
     <section id="home">
 
       <img src="/assert/img2.jpg" id="backgroundImage">
+
+
+
       <div class="main">
-        <h1 class="headings person"> I'M HANS MBUA <br> SOFTWARE DEVELOPER</h1>
-        <p>web / Spring-boot developer</p>
 
-        <div id="hire_me">
-
-          <button class="btn">
-            <a href="#">Hire me</a>
-          </button>
-          <button class="btn">
-            <a href="/AboutMe.html">Learn More</a>
-          </button>
-
+        <div class="Quotes">
+          <h2>Daily Quotes:</h2>
+          <p th:text="${QuoteOfTheDay}"/>
         </div>
 
 
+        <div class="mainHeadings">
+          <h1 class="headings person"> I'M HANS MBUA <br> SOFTWARE DEVELOPER</h1>
+          <p>web / Spring-boot developer</p>
+
+          <div id="hire_me">
+
+            <button class="btn">
+              <a href="#">Hire me</a>
+            </button>
+            <button class="btn">
+              <a href="/AboutMe.html">Learn More</a>
+            </button>
+
+          </div>
+        </div>
+
       </div>
+
     </section>
 
 

@@ -1,27 +1,13 @@
 
 /*Home section*/
 #home {
-    display: flex;
     flex-direction: column;
-    background-color: rgba(0, 0, 0, 0.5);
-    height: 840px;
+    height: 600px;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: #3d3a3a;
 
 }
-
-/*#home::before {*/
-/*    content: "";*/
-/*    position: absolute;*/
-/*    top: 0;*/
-/*    right: 0;*/
-/*    height: 900px;*/
-/*    width: 100%;*/
-/*    z-index: -1;*/
-/*    opacity: .8;*/
-
-/*}*/
 
 #backgroundImage {
     height: 900px;
@@ -36,14 +22,26 @@
     opacity: .8;
 }
 
-.main {
+.mainHeadings {
     display: flex;
     flex-direction: column;
-    /* border: 1px solid white; */
     align-items: center;
     position: absolute;
     top: 30%;
     right: 10%;
+}
+.main {
+    font-family: "Oleo Script", sans-serif;
+    font-size: 20px;
+    margin: 0px 10%;
+    padding: 7rem 1rem;
+
+
+}
+
+.Quotes {
+     inline-size: 300px;
+    overflow-wrap: break-word;
 }
 
 .headings {
@@ -54,10 +52,10 @@
 
 }
 
-.main p {
+ p {
     font-family: "Oleo Script", sans-serif;
     font-size: 20px;
-    margin: 10px 0px;
+
 
 }
 
@@ -68,8 +66,8 @@
 .btn {
     padding: 20px 40px;
     background-color: transparent;
-    border: 1px solid white;
-    color: white;
+    border: 2px solid white;
+    color: #37454d;
     outline: none;
     transition: .6s ease;
     border-radius: 8px;
@@ -80,7 +78,6 @@
     cursor: pointer;
     background-color: white;
     color: black;
-    box-shadow: 0, 0, 5px white, 0 0 10px white, 0 0 15px white;
     font-weight: bold;
 
 }

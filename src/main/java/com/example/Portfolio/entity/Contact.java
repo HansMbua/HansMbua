@@ -1,4 +1,4 @@
-package com.example.Portfolio.Constroller.entity;
+package com.example.Portfolio.entity;
 
 public class Contact {
 

@@ -1,7 +1,10 @@
 package com.example.Portfolio.Constroller;
 
-import com.example.Portfolio.Constroller.entity.Contact;
-import org.slf4j.LoggerFactory;
+import com.example.Portfolio.Service.hansServiceInter;
+import com.example.Portfolio.entity.Contact;
+import com.example.Portfolio.entity.Quote;
+import com.example.Portfolio.entity.value;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -15,9 +18,14 @@ import java.util.logging.Logger;
 @RequestMapping("home")
 public class homeController {
 
-     @GetMapping("/homePage")
-    public String homePage(){
+    @Autowired
+    private hansServiceInter  hansServiceInter;
 
+     @GetMapping("/homePage")
+    public String homePage(Model theModel){
+         Quote theQuote = hansServiceInter.getTheQuote();
+
+         theModel.addAttribute("QuoteOfTheDay",theQuote.getQ());
          return "homePage";
      }
 
@@ -36,6 +44,8 @@ public class homeController {
     public String send(@ModelAttribute("contact") Contact contact){
          Logger theLogger = Logger.getLogger(this.getClass().getName());
 
+         theLogger.info("the email is: "+contact.getEmail());
+         theLogger.info("the employer name is: "+contact.getName());
          theLogger.info("the message is: "+contact.getMessages());
          // call a message service and pass the message and the user from the object
 
