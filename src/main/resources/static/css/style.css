@@ -1,0 +1,220 @@
+
+/*Home section*/
+#home {
+    flex-direction: column;
+    height: 600px;
+    justify-content: center;
+    align-items: center;
+    color: #3d3a3a;
+
+}
+
+#backgroundImage {
+    height: 900px;
+    width: 100%;
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 900px;
+    width: 100%;
+    z-index: -1;
+    opacity: .8;
+}
+
+.mainHeadings {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 30%;
+    right: 10%;
+}
+.main {
+    font-family: "Oleo Script", sans-serif;
+    font-size: 20px;
+    margin: 0px 10%;
+    padding: 7rem 1rem;
+
+
+}
+
+.Quotes {
+     inline-size: 300px;
+    overflow-wrap: break-word;
+}
+
+.headings {
+    font-family: century;
+    font-size: 3rem;
+    text-align: center;
+    margin: 2px 0px;
+
+}
+
+ p {
+    font-family: "Oleo Script", sans-serif;
+    font-size: 20px;
+
+
+}
+
+.person {
+    font-family: "Oleo Script", sans-serif;
+}
+
+.btn {
+    padding: 20px 40px;
+    background-color: transparent;
+    border: 2px solid white;
+    color: #37454d;
+    outline: none;
+    transition: .6s ease;
+    border-radius: 8px;
+    margin: 0 10px;
+}
+
+.btn:hover {
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* about section */
+#about {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: white;
+}
+
+
+#intro {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 10px;
+}
+
+#intro h2 {
+    font-size: 4rem;
+    margin-bottom: 20px;
+}
+
+/* Portfolio section */
+#Projects {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    align-items: center;
+    padding: 20px;
+}
+
+#Projects h1 {
+    margin-bottom: 20px;
+    font-size: 50px;
+
+
+}
+
+/* Service */
+#Experiences {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: rgba(161, 158, 158, 0.5);
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 350px;
+    height: 450px;
+    border: 1px solid black;
+    margin: 10px;
+    align-items: center;
+    text-align: justify;
+    padding: 10px;
+    border-radius: 15px;
+    background: linear-gradient(to top, rgb(225, 45, 45) 50% white 50%);
+    background-size: 100% 200%;
+    transition: all .8s;
+
+}
+
+.box:hover {
+    background-position: left bottom;
+    border: none;
+    box-shadow: 0 0 20px rgb(255, 45, 45);
+}
+.list {
+    list-style-type: none;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-lg-1 {
+    width: 50%;
+}
+
+
+#disclosure {
+    font-size: larger;
+}
+
+#projectList {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 40px;
+    padding: 24px;
+
+}
+
+#projectList li a img {
+    height: 200px;
+    width: 100%;
+    box-shadow: 2px 4px 8px rgba(68, 67, 67);
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+#projectList li a {
+    text-decoration: none;
+}
+
+#projectList li {
+    list-style: none;
+}
+
+#projectList p {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(179, 154, 154);
+}
+
+.project {
+    margin: 0px 20px;
+}
+

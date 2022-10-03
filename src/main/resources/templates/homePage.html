@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <!--
+      This is the page head - it contains info the browser uses to display the page
+      You won't see what's in the head in the page
+      Scroll down to the body element for the page content
+    -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hans</title>
+
+    <!--links for css -->
+    <link rel="stylesheet" th:href="@{/css/style.css}"/>
+    <link rel="stylesheet" th:href="@{/css/shear.css}"/>
+
+
+    <!-- controling screen oriantation hello -->
+    <link rel="stylesheet" media="screen and (max-width:800px)" th:href="@{/css/table.css}"/>
+
+    <!-- controling screen oriantation on phone-->
+    <link rel="stylesheet" media="screen and (max-width:530px)" th:href="@{/css/phone.css}"
+      />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+  
+          <li><a href="#Projects">Projects</a></li>
+          <li><a href="#Experiences">Experiences</a></li>
+          <li><a th:href="@{/home/contactMe}">Contact Me</a></li>
+  
+          <li><a href="hire_me/softwareCV.pdf">Resume CV</a></li>
+        </ul>
+      </nav>
+
+    </header>
+
+    <main>
+
+    <!-- Home section -->
+
+    <section id="home">
+
+      <img src="/assert/img2.jpg" id="backgroundImage">
+
+
+
+      <div class="main">
+
+        <div class="Quotes">
+          <h2>Daily Quotes:</h2>
+          <p th:text="${QuoteOfTheDay}"/>
+        </div>
+
+
+        <div class="mainHeadings">
+          <h1 class="headings person"> I'M HANS MBUA <br> SOFTWARE DEVELOPER</h1>
+          <p>web / Spring-boot developer</p>
+
+          <div id="hire_me">
+
+            <button class="btn">
+              <a href="#">Hire me</a>
+            </button>
+            <button class="btn">
+              <a href="/AboutMe.html">Learn More</a>
+            </button>
+
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- Projects -->
+
+    <section id="Projects">
+      <h1>Projects</h1>
+
+      <ul id="projectList">
+        <li class="project">
+          <a href="https://github.com/HansMbua"><img
+              src="/assert/ProjectPics/Git-profile.jpg" alt="my git profile"></a>
+          <p>Git Profile</p>
+        </li>
+
+        <li class="project">
+          <a href="https://hansmbua.github.io/Best_Brain_international/"><img
+              src="/assert/ProjectPics/BestBrain.jpg" alt="best brain international"></a>
+          <p>Best Brain International</p>
+        </li>
+
+
+
+        <li class="project">
+          <a href="https://hansmbua.github.io/MalickPort/"><img
+              src="/assert/ProjectPics/Portfolio.jpg" alt="malick portfolio"></a>
+          <p>Portfolio websits</p>
+        </li>
+        <li class="project">
+          <a
+            href="https://lab-antwerp-1.github.io/group1-separate-of-concerns-project/"><img
+              src="/assert/ProjectPics/book.jpg" alt="my fevorite book project from git"></a>
+          <p>Portfolio websits</p>
+        </li>
+
+
+      </ul>
+    </section>
+
+    <!-- Service -->
+    <section id="Experiences">
+      <h1 class="headings">Experiences</h1>
+      <div class="row">
+        <div class="box">
+          <h1 class="headings">Web Design</h1>
+
+          <p>
+
+          </p>
+        </div>
+
+        <div class="box">
+
+          <h1 class="headings">Java Developer</h1>
+
+          <p>
+            JavaServer pages (JSP) and servlets. <br>
+            Web frameworks (e.g., Struts and Spring) <br>
+            Service-oriented architecture/web services (SOAP/REST) <br>
+            Web technologies like HTML, CSS, JavaScript, and JQuery. <br>
+            Markup languages like XML and JSON. <br>
+            Object-oriented programming (OOP) concepts and patterns.</p>
+        </div>
+        <div class="box">
+          <h1 class="headings">Spring-boot</h1>
+
+          <p>
+            <ul class="list">
+              <li>Create stand-alone applications</li>
+              <li>Embed Tomcat, Jetty or Undertow directly (no need to deploy
+                WAR files)</li>
+              <li>Provide opinionated 'starter' dependencies to simplify your
+                build configuration</li>
+              <li>Automatically configure Spring and 3rd party libraries
+                whenever possible</li>
+              <li>Provide production-ready features such as metrics, health
+                checks, and externalized configuration</li>
+              <li>Absolutely no code generation and no requirement for XML
+                configuration</li>
+            </ul>
+          </p>
+        </div>
+
+      </div>
+    </section>
+
+    </main>
+
+
+    <!-- contact section -->
+
+    <footer>
+
+      <ul>
+        <li>
+          <a
+            href="http://https://www.facebook.com/profile.php?id=100009373836790">
+            <img src="/footer/facebook.png" alt="facebook account">
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/hans-mbua-8b103a1b1/">
+            <img src="/footer/linkedin.png" alt="" >
+          </a>
+
+        </li>
+      </ul>
+
+    </footer>
+  </body>
+</html>
