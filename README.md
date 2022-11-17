@@ -1,5 +1,5 @@
 ## Web / Desktop Developer  
- I am a young developer passionate about JAVA, JavaScript, Databases and lots of other programming languages. Feel free to take a look at my repo's and ask me questions about my projects. Recently You can see some of my projects at my personal [website](https://hansmbua.github.io/HansMbua/) 👋. and also I have the ability to learn something difficult in a short period of time 
+I'm a young developer who is passionate in several different programming languages, including Java, JavaScript, databases, and others. Please feel free to go around my repositories and to enquire about my projects. Recently, some of my projects have been posted to my personal website (https://hansmbua.github.io/HansMbua/). in addition, I possess the capacity to quickly learn a challenging skill.
  
 ## Skills
 |             |            |                     |                                 |                         |             |           |
