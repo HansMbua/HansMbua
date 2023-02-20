@@ -20,7 +20,7 @@ I'm a young developer who is passionate in several different programming languag
 <br />
 
 ## Languages
- - NEDERLAND   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
+ - NEDERLAND   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40)
  - ENGLISH  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
  - FRENCH  ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80)
  
