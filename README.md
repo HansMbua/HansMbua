@@ -10,6 +10,7 @@ I'm a young developer who is passionate in several different programming languag
 | CSS         |    CSS3    |                     |
 | JavaScript  |   React    |                     |
 | Strapi      |   Heroku   |       Postman       |
+| typeScript  |   Angular  |                     |
 
 ## 1) A great software is one in which makes sure its dose what the customers want
 ## 2) Applies basic OO Principles to add flexibility
